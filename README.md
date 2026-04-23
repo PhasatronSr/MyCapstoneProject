@@ -1,7 +1,5 @@
 # MyCapstoneProject
 
-> **Note:** Add a brief, 1-2 sentence description here explaining what your capstone project does, what problem it solves, or what its main goal is.
-
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
@@ -18,3 +16,4 @@ First, clone this repository to your local machine:
 ```bash
 git clone [https://github.com/your-username/MyCapstoneProject.git](https://github.com/your-username/MyCapstoneProject.git)
 cd MyCapstoneProject
+
